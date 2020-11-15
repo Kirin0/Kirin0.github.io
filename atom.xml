@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  <icon>https://kirino.cf/icon.png</icon>
+  
+  <link href="https://kirino.cf/atom.xml" rel="self"/>
+  
+  <link href="https://kirino.cf/"/>
+  <updated>2020-11-05T13:48:52.762Z</updated>
+  <id>https://kirino.cf/</id>
+  
+  <author>
+    <name>Kirin0</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kirino.cf/2020/11/05/hello-world/"/>
+    <id>https://kirino.cf/2020/11/05/hello-world/</id>
+    <published>2020-11-05T13:48:52.762Z</published>
+    <updated>2020-11-05T13:48:52.762Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>live2d</title>
+    <link href="https://kirino.cf/2020/10/28/live2d/"/>
+    <id>https://kirino.cf/2020/10/28/live2d/</id>
+    <published>2020-10-27T16:06:52.000Z</published>
+    <updated>2020-10-27T16:11:09.143Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;之前搞网页 Live2d</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>pic</title>
+    <link href="https://kirino.cf/2020/10/26/pic/"/>
+    <id>https://kirino.cf/2020/10/26/pic/</id>
+    <published>2020-10-26T04:43:41.000Z</published>
+    <updated>2020-10-28T13:42:21.364Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>jsdelivr</title>
+    <link href="https://kirino.cf/2020/10/25/jsdelivr/"/>
+    <id>https://kirino.cf/2020/10/25/jsdelivr/</id>
+    <published>2020-10-25T15:50:58.000Z</published>
+    <updated>2020-10-25T15:58:10.094Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用hexo+github搭建免费个人博客详细教程</title>
+    <link href="https://kirino.cf/2020/10/23/hexo/"/>
+    <id>https://kirino.cf/2020/10/23/hexo/</id>
+    <published>2020-10-23T08:04:04.000Z</published>
+    <updated>2020-10-25T07:35:58.274Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;使用github-pages服务搭建博客的好处有：&quot;&gt;&lt;a href=&quot;#使用github-pages服务搭建博客的好处有：&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
