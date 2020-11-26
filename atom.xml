@@ -6,7 +6,7 @@
   <link href="https://kirino.cf/atom.xml" rel="self"/>
   
   <link href="https://kirino.cf/"/>
-  <updated>2020-11-21T14:37:38.102Z</updated>
+  <updated>2020-11-26T15:32:22.911Z</updated>
   <id>https://kirino.cf/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://kirino.cf/2020/11/05/hello-world/"/>
     <id>https://kirino.cf/2020/11/05/hello-world/</id>
     <published>2020-11-05T13:48:52.762Z</published>
-    <updated>2020-11-21T14:37:38.102Z</updated>
+    <updated>2020-11-26T15:32:22.911Z</updated>
     
     
       
@@ -46,7 +46,7 @@
     <link href="https://kirino.cf/2020/10/28/live2d/"/>
     <id>https://kirino.cf/2020/10/28/live2d/</id>
     <published>2020-10-27T16:06:52.000Z</published>
-    <updated>2020-11-15T08:24:00.569Z</updated>
+    <updated>2020-11-26T15:33:28.204Z</updated>
     
     
       
@@ -59,7 +59,7 @@
     
     
     
-    <category term="教程" scheme="https://kirino.cf/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="技术" scheme="https://kirino.cf/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
     <category term="Hexo" scheme="https://kirino.cf/tags/Hexo/"/>
@@ -73,7 +73,7 @@
     <link href="https://kirino.cf/2020/10/26/pic/"/>
     <id>https://kirino.cf/2020/10/26/pic/</id>
     <published>2020-10-26T04:43:41.000Z</published>
-    <updated>2020-11-15T08:24:55.908Z</updated>
+    <updated>2020-11-26T15:33:34.711Z</updated>
     
     
       
@@ -86,7 +86,7 @@
     
     
     
-    <category term="教程" scheme="https://kirino.cf/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="技术" scheme="https://kirino.cf/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
     <category term="Hexo" scheme="https://kirino.cf/tags/Hexo/"/>
@@ -102,7 +102,7 @@
     <link href="https://kirino.cf/2020/10/25/jsdelivr/"/>
     <id>https://kirino.cf/2020/10/25/jsdelivr/</id>
     <published>2020-10-25T15:50:58.000Z</published>
-    <updated>2020-11-15T08:23:03.747Z</updated>
+    <updated>2020-11-26T15:33:21.548Z</updated>
     
     
       
@@ -115,7 +115,7 @@
     
     
     
-    <category term="教程" scheme="https://kirino.cf/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="技术" scheme="https://kirino.cf/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
     <category term="Hexo" scheme="https://kirino.cf/tags/Hexo/"/>
@@ -129,7 +129,7 @@
     <link href="https://kirino.cf/2020/10/23/hexo/"/>
     <id>https://kirino.cf/2020/10/23/hexo/</id>
     <published>2020-10-23T08:04:04.000Z</published>
-    <updated>2020-11-15T08:22:31.285Z</updated>
+    <updated>2020-11-26T15:33:14.769Z</updated>
     
     
       
@@ -142,7 +142,7 @@
     
     
     
-    <category term="教程" scheme="https://kirino.cf/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="技术" scheme="https://kirino.cf/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
     <category term="Hexo" scheme="https://kirino.cf/tags/Hexo/"/>
