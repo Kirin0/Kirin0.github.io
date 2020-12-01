@@ -1,3 +1,3 @@
-/* build time:Fri Nov 27 2020 20:57:11 GMT+0800 (中国标准时间)*/
+/* build time:Tue Dec 01 2020 17:27:30 GMT+0800 (中国标准时间)*/
 #rightside{position:fixed;right:-38px;bottom:$rightside-bottom;z-index:100;opacity:0;transition:all .5s}maxWidth900() #rightside #rightside-config-hide{transition:transform .4s;transform:translate(35px,0)}#rightside #rightside-config-hide.show{transform:translate(0,0)!important}#rightside>div>a,#rightside>div>button{display:block;margin-bottom:2px;width:30px;height:30px;background-color:var(--btn-bg);color:var(--btn-color);text-align:center;font-size:16px;cursor:pointer}#rightside>div>a:hover,#rightside>div>button:hover{background-color:var(--btn-hover-color)}#rightside #rightside_config i{animation:avatar_turn_around 2s linear infinite}#rightside #mobile-toc-button{display:none}
 /* rebuild by neat */
